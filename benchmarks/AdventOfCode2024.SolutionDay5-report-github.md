@@ -8,7 +8,7 @@ AMD Ryzen 9 7900X3D, 1 CPU, 24 logical and 12 physical cores
 
 
 ```
-| Method  | Mean       | Error    | StdDev   |
-|-------- |-----------:|---------:|---------:|
-| SolveV1 |   964.6 μs |  4.33 μs |  4.05 μs |
-| SolveV2 | 2,119.5 μs | 10.93 μs | 10.23 μs |
+| Method  | Mean     | Error   | StdDev  |
+|-------- |---------:|--------:|--------:|
+| SolveV1 | 341.7 μs | 3.93 μs | 3.67 μs |
+| SolveV2 | 349.7 μs | 4.46 μs | 4.17 μs |
