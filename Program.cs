@@ -5,7 +5,7 @@ using BenchmarkDotNet.Running;
 // SolutionDay1.SolveV1_1();
 // SolutionDay1.SolveV2();
 
-var summary = BenchmarkRunner.Run<SolutionDay6>();
+var summary = BenchmarkRunner.Run<SolutionDay7>();
 // SolutionDay3.SolveV1();
 // SolutionDay3.SolveV2();
 
@@ -17,3 +17,6 @@ var summary = BenchmarkRunner.Run<SolutionDay6>();
 
 // SolutionDay6.SolveV1();
 // SolutionDay6.SolveV2();
+
+// SolutionDay7.SolveV1();
+// SolutionDay7.SolveV2();
