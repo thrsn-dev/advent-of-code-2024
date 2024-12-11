@@ -28,7 +28,10 @@ using BenchmarkDotNet.Running;
 
 // SolutionDay10.SolveV1();
 // SolutionDay10.SolveV2();
+//
+// SolutionDay11.SolveV1();
+// SolutionDay11.SolveV2();
 
 
 
-var summary = BenchmarkRunner.Run<SolutionDay10>();
+var summary = BenchmarkRunner.Run<SolutionDay11>();
